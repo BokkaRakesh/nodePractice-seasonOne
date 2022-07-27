@@ -1,0 +1,23 @@
+{
+  "name": "nodepractice-seasonone",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BokkaRakesh/nodePractice-seasonOne.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BokkaRakesh/nodePractice-seasonOne/issues"
+  },
+  "homepage": "https://github.com/BokkaRakesh/nodePractice-seasonOne#readme",
+  "dependencies": {
+    "nodemon": "^2.0.19"
+  }
+}
